@@ -2,10 +2,10 @@
 # Homework Assignment 3
 # Penny Matching
 
-# In the game, the computer tries to guess what the player has chosen
-# heads or tails. When the computer gueses correctly, it gets a penny.
-# When it is incorrect, the player receives a penny.
-# After 10 rounds, whoever has the most pennies is the winner
+print("In the game, the computer tries to guess what the player has chosen")
+print("heads or tails. When the computer gueses correctly, it gets a penny.")
+print("When it is incorrect, the player receives a penny.")
+print("After 10 rounds, whoever has the most pennies is the winner.")
 
 import random
 roundNum = 0
